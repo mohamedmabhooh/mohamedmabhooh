@@ -16,10 +16,13 @@
 
 - 🎓 Bachelor's in Software Engineering from **Islamic University – Gaza**
 - 👨‍💻 Founder & Team Leader at **Future Tech Technical Solution**
+- 📱 Flutter Developer with **5 years** of experience
+- 🌐 Node.js Backend Developer with **3 years** of experience
 - 🧠 Passionate about **AI**, **Robotics**, and **Mobile App Development**
 - 💬 I teach **Python**, **Data Structures**, and **Algorithms**
 - 🔭 Currently looking for new challenges and research opportunities in AI
 - 🌐 Portfolio: [LinkedIn](https://linkedin.com/in/eng-mohamed-mabhooh-7b4365235) | [GitHub](https://github.com/mohamedmabhooh)
+
 
 ---
 
