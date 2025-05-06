@@ -78,10 +78,11 @@ An ordering & delivery app for a restaurant in Oman.
 </p>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedmabhooh&show_icons=true&theme=tokyonight" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmabhooh&layout=compact&theme=tokyonight" height="180em"/>
 </p>
+-->
